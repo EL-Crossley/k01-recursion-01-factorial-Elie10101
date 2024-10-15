@@ -8,5 +8,5 @@ def factorial(x):
     # general case
 
 # testing
-num = 5
+num = int(input())
 print(factorial(num))
